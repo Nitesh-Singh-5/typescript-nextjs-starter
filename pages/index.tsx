@@ -4,8 +4,11 @@ import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import React from "react";
 
-let a: string = "hello";
-console.log("hello");
+//   const a = "hello";
+/**
+ * Home Page of the Application
+ * @return {JSX.Element}
+ */
 
 const Home: NextPage = () => {
   return (
